@@ -18,10 +18,13 @@ console.log(id===anotherId);
 // 2) reference(non primitive)
 //   Array , Objects, Functions.
 
-const heros = ["abubakar", "umar" , "osmaan" , "ali"]
+const ary = ["abubakar", "umar" , "osmaan" , "ali"]
 
-const details = {
-    name; "MFA"
-    
+const obj = {
+    name: "MFA",
+    Age : 29,
+    city : Hyderabad
 }
+
+let myFunction = function(){}
  
